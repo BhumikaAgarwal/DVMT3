@@ -12,6 +12,8 @@ body{
    
 }
 
+
+
 .swwimnav{
     color: white;
     height: 130px;
@@ -45,13 +47,12 @@ body{
     margin-top: 5px;
 }
 
-.menu:hover{
+.menuflex:hover .menu , .menuflex:hover .design{
     color: #95a8c7;
+  
 }
 
-.design:hover{
-    color: #95a8c7;
-}
+
 
 .design{
     color: white;
@@ -60,7 +61,7 @@ body{
 }
 
 .buttcont{
-    background-color: white;
+    background-color:white;
     color: rgba(22, 88, 179);
     border: none;
     border-radius: 25px;
@@ -70,6 +71,13 @@ body{
     font-weight: 600;
     padding: 12px;
 }
+
+.buttcont:hover{
+    background-color:#0c0454;
+    color:white;
+}
+
+
 
 .menuflex{
     margin-top: 5px;
