@@ -179,7 +179,7 @@ body{
 
 }
 
-.news3:hover.newsimg3 img {
+.news3:hover .newsimg3 img {
     -webkit-transform: scale(1.1);
     /* Safari and Chrome */
     -moz-transform: scale(1.1);
