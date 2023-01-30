@@ -911,6 +911,10 @@
 
     @media(max-width:430px)
     {
+        
+        .lineimg img{
+            width: 250px;
+        }
       .box1 img,.box2 img,.box3 img,.box4 img,.box5 img,.box6 img,.box7 img,.box8 img{
         width:110px;
       }
